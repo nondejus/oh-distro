@@ -1,7 +1,8 @@
 ===================================
 Warning: Don't expect this to work!
 ===================================
-https://github.com/nondejus/oh-distro/blob/master/1475802_10101702774403332_520029405_n.jpg
+
+.. image:: https://github.com/nondejus/oh-distro/blob/master/1475802_10101702774403332_520029405_n.jpg
 
 
 
