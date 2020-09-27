@@ -1,7 +1,9 @@
 ===================================
 Warning: Don't expect this to work!
 ===================================
-.. image::https://github.com/nondejus/oh-distro/blob/master/1475802_10101702774403332_520029405_n.jpg
+image:: https://github.com/nondejus/oh-distro/blob/master/1475802_10101702774403332_520029405_n.jpg
+:target: https://github.com/nondejus/oh-distro/blob/master/1475802_10101702774403332_520029405_n.jpg
+
 
 We're releasing most of the source code from the MIT DRC project in
 the hope that it will benefit the robotics community. But there are
